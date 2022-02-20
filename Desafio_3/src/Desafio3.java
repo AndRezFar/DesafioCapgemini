@@ -37,6 +37,7 @@ public class Desafio3 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Digite a palavra desejada: ");
         String text = scanner.nextLine();
         int result = 0;
 
